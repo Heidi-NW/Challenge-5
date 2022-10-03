@@ -14,4 +14,4 @@ User can type on a time slot and save their schedules by clicking the "Save" but
 
 The current time slot will be highlighted in red, the future time slot is green and the past time slot is grey color.
 
-<img width="1207" alt="Screen Shot 2022-10-02 at 11 54 41 PM" src="https://user-images.githubusercontent.com/108437457/193498868-ba9aac76-993d-4c1a-88ef-2c57446d0175.png">
+<img width="1068" alt="Screen Shot 2022-10-03 at 12 38 50 PM" src="https://user-images.githubusercontent.com/108437457/193631988-115d039b-d25f-42bc-acd1-7474ef5795ea.png">
